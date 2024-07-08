@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Docker
+docker-compose.yml
+.dockerignore
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+

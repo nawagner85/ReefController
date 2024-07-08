@@ -1,0 +1,7 @@
+# Requirements for Reef Aquarium Controller
+
+# Add your dependencies here
+# Example:
+# Flask==2.0.1
+# SQLAlchemy==1.4.20
+
